@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiyaoreiqu.timlange.design/sitemap.xml
